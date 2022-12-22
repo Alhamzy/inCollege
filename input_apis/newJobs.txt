@@ -1,0 +1,14 @@
+jdog
+Software Engineer
+Develop the front-end frameworks
+USF
+Tampa, FL
+60000
+=====
+tom
+Graphic Designer
+Create designs and posters for events
+IBM
+Monroe, US
+40000
+=====
