@@ -20,5 +20,7 @@
 ```
 python main.py
 ```
+### or follow this link to Replit and run the main.py file:
+https://replit.com/@SloMoe/inCollege#main.py
 
 ##### WARNING: DO NOT DELETE THE INCOLLEGE.DB FILE ###
