@@ -1,6 +1,6 @@
 
 # InCollege - LinkedIn Alternative Built for Students -Fall 2023-
-- A python shell interface with communication and data handling features  
+- A python command-line based interface with communication and data handling features  
 - Utilizes python, SQLite and an API (Application Programming Interface)
 - Unit testing has been done weekly to ensure reliability of program
 - Used *Agile* and *scrum* methodology through developement
